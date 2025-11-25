@@ -4,3 +4,4 @@ On this role, i support about 80 users on different issues, ranging from trouble
 Designed LAN and deployed Access points, Switches, Routers and other ICT gadgets.
 I formatted, installed, and reconfigured windows computer, Setup and configured Network printer.
 Provide 1st and 2nd support to end-users on all ICT gadgets
+still on it
